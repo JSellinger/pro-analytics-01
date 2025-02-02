@@ -111,3 +111,10 @@
 2025-01-26 16:53:15.174 | INFO     | __main__:main:62 - Standard Deviation: 0.60
 2025-01-26 16:53:15.174 | INFO     | __main__:main:64 - Exiting MAIN function.
 2025-01-26 16:53:15.174 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-02 17:35:45.995 | INFO     | __main__:<module>:39 - Logging to file: logs\project_log.log
+2025-02-02 17:35:45.996 | INFO     | __main__:main:61 - STARTING utils_logger.py
+2025-02-02 17:35:45.996 | INFO     | __main__:log_example:52 - This is an example info message.
+2025-02-02 17:35:45.996 | WARNING  | __main__:log_example:53 - This is an example warning message.
+2025-02-02 17:35:45.997 | ERROR    | __main__:log_example:54 - This is an example error message.
+2025-02-02 17:35:45.997 | INFO     | __main__:main:66 - View the log output at logs\project_log.log
+2025-02-02 17:35:45.998 | INFO     | __main__:main:67 - EXITING utils_logger.py.
